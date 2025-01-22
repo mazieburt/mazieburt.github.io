@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
-title: Welcome
-description: This is a github page of Mazie Burt, a student at Southern New Hampshire University. 
+title: <div align="center">
+  <h1>Welcome</h1>
+</div>
+description: This is a GitHub page of Mazie Burt, a Southern New Hampshire University student. 
