@@ -1,7 +1,7 @@
 ## Mazie Burt
 
-<img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; Safety Inspector<br/>
-&nbsp; Pawtucket Brewery <br/>
+<img src="SiteFiles/Peter_Griffin.png" align="left" width=150>&nbsp; Student <br/>
+&nbsp; Southern New Hampshire University <br/>
 &nbsp; &nbsp; email: mazie.burt@snhu.edu<br/>
 &nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
