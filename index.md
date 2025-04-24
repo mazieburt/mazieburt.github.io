@@ -15,4 +15,6 @@ Welcome to my page – I am an environmental science major at Southern New Hamps
 
 ### Sample Work Products
 
-I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](file:///Users/mazieburt/Documents/MAT434/MAT434Final.html#conclusion) from an incident at Pawtucket Brewery as an example of what I can do for you!
+I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://mazieburt.github.io/blob/main/MAT434Final.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
+
+
